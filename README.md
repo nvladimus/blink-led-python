@@ -13,6 +13,7 @@
 - a small 5-mm LED of any color (fordward voltage up to 5V, current ~20 mA)
 
 # Software installation
+- Install the software listed above
 - after installing Anaconda, open the Anaconda prompt and type
   ```
   conda create -n daq-python python=3.7
@@ -22,5 +23,7 @@
   ```
 - install the dependencies
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
+
+Follow the [Wiki](https://github.com/nvladimus/blink-led-python/wiki) for step-by-step guides.
