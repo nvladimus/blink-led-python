@@ -9,8 +9,10 @@
 - tested on Windows 10, other OS todo
 
 # Hardware
-- any NI DAQ board compatible with your computer (we will use NI USB-6211 just because we have it)
-- a small 5-mm LED of any color (fordward voltage up to 5V, current ~20 mA)
+- any NI DAQ board compatible with your computer (we will use NI USB-6211 because we have it)
+- USB-B cable for our NI USB-6211 card
+- small 5-mm LED of any color (fordward voltage up to 5V, current ~20 mA)
+- small flat screwdriver (3 mm wide)
 
 # Software installation
 - Install the software listed above
